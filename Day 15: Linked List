@@ -8,4 +8,7 @@ def insert(self,head,data):
                 curr = curr.next
             curr.next = Node(data)
         return head
+
+
+
 #pragyanshu        
